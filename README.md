@@ -1,6 +1,6 @@
 # Komputer-Store
 
-I created the front from a banking an computer store system with usage of the komputer-store api using js, html and css
+I created the front-end from a banking an computer store system with usage of the komputer-store api using js, html and css
 ## Table of Contents
 
 - [Name](#name)
