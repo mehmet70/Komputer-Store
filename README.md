@@ -6,7 +6,6 @@ I created the front-end from a banking an computer store system with usage of th
 - [Name](#name)
 - [Description](#description)
 - [Getting started](#getting-started)
-- [Usage](#usage)
 - [Maintainers](#maintainers)
 
 ## Name
